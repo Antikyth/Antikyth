@@ -1,7 +1,9 @@
 ### Hello!
 I'm just a student who loves learning and programming. I love sharing my discoveries with others, and I always try to
-better the path I have travelled, to always make it easier for the next person! The most meaningful thing for me is
-helping other people; someday I hope to develop something that has a bigger, more meaningful impact on people's lives.
+better the path I have travelled; to always make it easier for the next person!
+
+The most meaningful thing for me is helping other people. Someday I hope to develop something that can have a big,
+positive impact on other people.
 
 ### [[AquariWM](https://github.com/AquariWM)]
 - [AquariWM Server](https://github.com/AquariWM/aquariwm): a modular window manager for X11.
