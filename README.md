@@ -1,5 +1,6 @@
 ### Hello!
-I'm just a student who loves learning and programming. I love sharing my discoveries with others, and making it easier for the next person to do make those same discoveries.
+I'm just a student who loves learning and programming. I love sharing my discoveries with others, and making it easier
+for the next person to do the same.
 
 ### [[AquariWM](https://github.com/AquariWM)]
 - [AquariWM Server](https://github.com/AquariWM/aquariwm): a modular window manager for X11.
