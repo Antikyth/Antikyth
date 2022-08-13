@@ -1,5 +1,5 @@
 ### Hello!
-I'm just a student who loves learning and programming. I love sharing my discoveries with others, and making it easier
+I'm a student that loves learning and programming. I love sharing my discoveries with others, and making it easier
 for the next person to do the same.
 
 ### [[AquariWM](https://github.com/AquariWM)]
